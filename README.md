@@ -1,11 +1,10 @@
 # Book Generator
 
-# Architecure
+    # Architecure
+        ## Story Generator
 
-## Story Generator
+        ## Image Generator
 
-## Image Generator
+        ## Image Collection
 
-## Image Collection
-
-## Prompt Creator
+        ## Prompt Creator
