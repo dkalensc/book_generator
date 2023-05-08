@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+from generators import story_generator as sg
 """
 This is the main entry point for the Book Generator App
 """
@@ -11,6 +12,9 @@ __license__ = "N/A"
 def main():
     """ Main entry point of the app """
     print("Book Generator Start")
+    generator = sg.StoryGenerator()
+    generator.generate_story()
+
 
 
 if __name__ == "__main__":
